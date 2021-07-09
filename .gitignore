@@ -1,0 +1,6 @@
+# BASE
+node_modules/
+.DS_Store
+
+# Ignore vscode settings
+.vscode

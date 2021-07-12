@@ -1,6 +1,15 @@
 # BASE
 node_modules/
+node_modules/*
 .DS_Store
 
 # Ignore vscode settings
 .vscode
+.vscode/settings.json
+
+# Ignore lite-server config
+bs-config.json
+
+#Ignore some libraries
+libraries
+libraries/*
